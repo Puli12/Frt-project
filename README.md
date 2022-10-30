@@ -15,9 +15,11 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/Puli12/Frt-project/
 
 
 
-hostcloud is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+hostcloud is my project Monitor real time performance issues to speed up and streamline migration while mitigating risk, efficiently investing your resources and ensuring all teams are aligned on business-critical KPIs.Prevent technical issues from derailing your migration progress — get immediate answers on where and why an issue has occurred. Provides AI root cause analysis and anomaly detection for monitoring that moves at the speed of the modern customer demand
 
-# Features
+
+
+#features
 -  Good UI
 
 -  Easy To Navigate
