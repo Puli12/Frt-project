@@ -6,7 +6,7 @@ AZURE LINK : https://gray-flower-0b4f18700.2.azurestaticapps.net
 
 YOUTUBE LINK : 
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: https://puli12.github.io/Frt-project/
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
