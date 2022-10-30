@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/Puli12/Frt-project/
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+hostcloud is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
 
 # Features
 -  Good UI
@@ -78,7 +78,7 @@ EduWell is my project that is done as also called an online course, is any cours
 ![Screenshot_20221030_152438](https://user-images.githubusercontent.com/116457111/198872803-8986b6ee-d503-4340-9d74-a3e209cc8743.png)
 
 # About Us
-i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
+i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the servers regularly .
 
 -  Puli Ramachandra Reddy
 -  pavuluri Manoj
