@@ -4,7 +4,7 @@
 
 AZURE LINK : https://gray-flower-0b4f18700.2.azurestaticapps.net
 
-YOUTUBE LINK : 
+YOUTUBE LINK : https://youtu.be/8vpexrCUGbY
 
 PROJECT DEMO URL: https://puli12.github.io/Frt-project/
 
