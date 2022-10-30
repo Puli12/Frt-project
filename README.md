@@ -80,7 +80,8 @@ EduWell is my project that is done as also called an online course, is any cours
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+-  Puli Ramachandra Reddy
+-  pavuluri Manoj
 
 
 # Privacy Policies 
