@@ -9,7 +9,7 @@ YOUTUBE LINK :
 PROJECT DEMO URL: https://puli12.github.io/Frt-project/
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/Puli12/Frt-project/
 
 
 
